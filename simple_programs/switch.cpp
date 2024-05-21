@@ -24,6 +24,7 @@ int main()
     default:
         std::cout << "Pretty Sick." << "\n"; break;
     }
+    
     std::cout << "-- End of the program --" << std::endl;
     return 0;
 }
