@@ -29,3 +29,43 @@ C++ Is a paradigm, low-level, library based, object oriented language. Wich mean
 
 I might only learn C++ to not get lost between the 2 synthax. I'll just learn the basic of C then full focus on C++, i think this is the way to go.
 
+Just learned that C & C++ uses a base 'int main' function EVERYTIME. You HAVE to write this function down for the program you code to work. the more complex your program get, the more functions you add that are interpreted by this function.
+
+---
+
+## 'Hello World !' in C++ would be:
+
+    '''
+    #include <iostream>
+
+    int main() {
+        //using namespace std;                            //Only if you don't wanna write down 'std::' at every args.
+        std::cout << "Hello World !" << std::endl;        //std::character_out, then '<<' like 'this, output that'. "Hello World!", duh. std::endl for end_line.
+        return 0                                          //end line is slower than "\n" because it flushes memory buffer while returning the line. no impact on a 'Hello Wolrd!' script tho.
+        }                                                 //return 0 cause all function using an integer should return a value.
+    '''
+
+---
+
+# ENVIRONEMENTS
+
+## DESKTOP: 
+    CPU: AMD Ryzen 7 7700x
+    RAM: 32Gb DDR5 6000MT/s 
+    GPU: NVIDIA RTX3070 8Gb
+    OS: Windows 11
+    Dev. Env.: Visual Studio Code + WSL2 (Arch Linux). Compiling w/ g++.
+    VSCode Plugins: TODOTree, Prettier, C/C++ extension pack (Theme+IntelliSense), Ayu Dark theme, Vim extension.
+
+## LAPTOP:
+    CPU: Intel I5-10500h
+    RAM: 8Gb DDR4 2444Mhz
+    GPU: NVIDIA GTX1650 4Gb
+    OS: Arch Linux (Gnome 46 / Wayland) (sometimes x11, if gaming for example)
+    Dev. Env.: VSCode + g++
+    VSCode Plugins: TODOTree, Prettier, C/C++ extension pack (Theme+IntelliSense), Ayu Dark theme, Vim extension.
+---
+
+# SUPPORT:
+Mainly using a book that i bought a week ago "C++, introduction." Pretty cool since it is a french written book. (i'm french). Sometimes learning a pretty difficult hobbie in english can be a lil' challenging. 
+Sometimes i like to hop on OpenClassroom or Codecademy and complete a course. i am taking my time.
