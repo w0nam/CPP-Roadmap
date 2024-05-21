@@ -1,9 +1,9 @@
 #include <iostream>
 
 int main() {
-    int age;
+    int _age;
     std::cout << "How old are you ?" << "\n";
-    std::cin >> age;
-    std::cout << "You are " << age << "yo." << std::endl;
+    std::cin >> _age;
+    std::cout << "You are " << _age << "yo." << std::endl;
     return 0;
 }
