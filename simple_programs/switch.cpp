@@ -3,8 +3,10 @@
 int main() 
 {
     int numberCar;
+    
     std::cout << "how many cars do you have?" << "\n";
     std::cin >> numberCar;
+    
     switch (numberCar)
     {
     case 0:
