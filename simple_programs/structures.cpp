@@ -1,11 +1,11 @@
 #include <iostream>
 
 int main() {
-    int nbAnimals;
+    int _nbAnimals;
     std::cout << "how many pet do you have ?" << "\n";
-    std::cin >> nbAnimals;
+    std::cin >> _nbAnimals;
 
-    if (nbAnimals > 0)
+    if (_nbAnimals > 0)
     {
         std::cout << "Nice! pets are so sick." << "\n";
     }
