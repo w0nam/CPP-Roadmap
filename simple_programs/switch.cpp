@@ -2,12 +2,12 @@
 
 int main() 
 {
-    int numberCar;
+    int _numberCar;
     
     std::cout << "how many cars do you have?" << "\n";
-    std::cin >> numberCar;
+    std::cin >> _numberCar;
     
-    switch (numberCar)
+    switch (_numberCar)
     {
     case 0:
         std::cout << "You should buy a car, you maggot." << "\n"; break;
