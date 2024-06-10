@@ -53,15 +53,14 @@ Just learned that C & C++ uses a base 'int main' function EVERYTIME. You HAVE to
     CPU: AMD Ryzen 7 7700x
     RAM: 32Gb DDR5 6000MT/s 
     GPU: NVIDIA RTX3070 8Gb
-    OS: Windows 11
-    Dev. Env.: Visual Studio Code + WSL2 (Arch Linux). Compiling w/ g++.
+    OS: Arch Linux (Gnome 46 + Wayland)
     VSCode Plugins: TODOTree, Prettier, C/C++ extension pack (Theme+IntelliSense), Ayu Dark theme, Vim extension.
 
 ## LAPTOP:
     CPU: Intel I5-10500h
     RAM: 8Gb DDR4 2444Mhz
     GPU: NVIDIA GTX1650 4Gb
-    OS: Arch Linux (Gnome 46 / Wayland) (sometimes x11, if gaming for example)
+    OS: Arch Linux (Gnome 46 / Wayland)
     Dev. Env.: VSCode + g++
     VSCode Plugins: TODOTree, Prettier, C/C++ extension pack (Theme+IntelliSense), Ayu Dark theme, Vim extension.
 ---
