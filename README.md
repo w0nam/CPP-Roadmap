@@ -53,7 +53,7 @@ Just learned that C & C++ uses a base 'int main' function EVERYTIME. You HAVE to
     CPU: AMD Ryzen 7 7700x
     RAM: 32Gb DDR5 6000MT/s 
     GPU: NVIDIA RTX3070 8Gb
-    OS: ~~Arch Linux (Gnome 46 + Wayland)~~ Windows 11 + MSYS2 Compiler
+    OS: <del>Arch Linux (Gnome 46 + Wayland)</del> Windows 11 + MSYS2 Compiler
     ~~VSCode Plugins: TODOTree, Prettier, C/C++ extension pack (Theme+IntelliSense), Ayu Dark theme, Vim extension.~~
     Dumped VSCode to Zed in order to challenge myself even more.
 
