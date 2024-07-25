@@ -6,7 +6,7 @@ Mainly got the neovim basics pretty fast. tutor is our god. Key repetitions suck
 
 # GOALS:
 1. Code myself a Web Browser (Chromium-based or nah.)
-2. Code myself a Video Game (2Dand/or/maybe 3D.)
+2. Code myself a Video Game (2D and/or/maybe 3D.)
 3. (list will go on & on...)
 
 # EXPERIENCE:
@@ -53,16 +53,18 @@ Just learned that C & C++ uses a base 'int main' function EVERYTIME. You HAVE to
     CPU: AMD Ryzen 7 7700x
     RAM: 32Gb DDR5 6000MT/s 
     GPU: NVIDIA RTX3070 8Gb
-    OS: Arch Linux (Gnome 46 + Wayland)
-    VSCode Plugins: TODOTree, Prettier, C/C++ extension pack (Theme+IntelliSense), Ayu Dark theme, Vim extension.
+    OS: ~~Arch Linux (Gnome 46 + Wayland)~~ Windows 11 + MSYS2 Compiler
+    ~~VSCode Plugins: TODOTree, Prettier, C/C++ extension pack (Theme+IntelliSense), Ayu Dark theme, Vim extension.~~
+    Dumped VSCode to Zed in order to challenge myself even more.
 
 ## LAPTOP:
     CPU: Intel I5-10500h
     RAM: 8Gb DDR4 2444Mhz
     GPU: NVIDIA GTX1650 4Gb
-    OS: Arch Linux (Gnome 46 / Wayland)
-    Dev. Env.: VSCode + g++
-    VSCode Plugins: TODOTree, Prettier, C/C++ extension pack (Theme+IntelliSense), Ayu Dark theme, Vim extension.
+    OS: ~~Arch Linux (Gnome 46 / Wayland)~~ Windows 11 + MSYS2 compiler
+    Dev. Env.: ~~VSCode +~~ Zed + g++
+    ~~VSCode Plugins: TODOTree, Prettier, C/C++ extension pack (Theme+IntelliSense), Ayu Dark theme, Vim extension.~~
+    Same here, Running Zed code editor now.
 ---
 
 # SUPPORT:
